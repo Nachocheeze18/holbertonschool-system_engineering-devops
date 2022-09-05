@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r /root/.html /tmp
+cp -v /root/*.html /tmp
