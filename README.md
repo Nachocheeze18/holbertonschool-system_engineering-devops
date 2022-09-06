@@ -1,1 +1,1 @@
-Script that will run the commands that are put into it.
+Scripts that run the command i put into them.
