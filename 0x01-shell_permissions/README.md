@@ -1,1 +1,1 @@
-how to change users through a script
+shell permissions
