@@ -1,2 +1,2 @@
 #!/bin/bash
-echo | tr 'A' 'Z' | tr 'c' 'e'
+sed -i 's/A/Z/g' 's/c/e/g'
