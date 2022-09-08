@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$string" | sed -r 's/[A]+/Z/g' | sed -r 's[c]+/e/g'
+echo "$string" | tr 'A' 'Z' | tr 'c' 'e'
