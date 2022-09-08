@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Chicago | sed 's/c//' 's/C//'
+echo Chicago | sed 's/c//g' 's/C//g'
