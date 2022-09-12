@@ -1,2 +1,2 @@
 #!/bin/bash
-find . source -type d | wc -l 
+find source -type d | wc -l 
