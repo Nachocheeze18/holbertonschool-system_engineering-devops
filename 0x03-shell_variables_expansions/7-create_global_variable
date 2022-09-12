@@ -1,2 +1,2 @@
 #!/bin/bash
-"BEST=School"=2 | func | echo "BEST=School"
+echo "BEST=School"\n | echo "BEST=School"
