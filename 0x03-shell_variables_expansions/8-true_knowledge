@@ -1,2 +1,2 @@
 #!/bin/bash
-printf 128\n 217
+printf "128 \n217"
