@@ -1,2 +1,2 @@
 #!/bin/bash
-global_var=2 | func | echo "BEST=School"
+"BEST=School"=2 | func | echo "BEST=School"
