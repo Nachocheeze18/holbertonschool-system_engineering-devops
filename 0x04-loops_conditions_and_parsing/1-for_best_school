@@ -2,5 +2,5 @@
 ### Display a loop 10 times saying Best School
 for _ in {0..9}
 do
-echo 'BEST School'
+echo 'Best School'
 done
