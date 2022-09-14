@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #Display the time for 12 hours and 59 minutes
-##Display the hours from 0-12
-###Display the minutes from 1-59
+# Display the hours from 0-12
+# Display the minutes from 1-59
 
 hour=0
 
